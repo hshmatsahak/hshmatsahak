@@ -9,6 +9,6 @@ Previous internships:
 - Sunnybrook Research Institute, Software Internship
 
 
-📫 Always happy to connect: 
+Always happy to connect 📫
 - Follow me on Github!
 - LinkedIn: https://www.linkedin.com/in/hshmat-sahak-08314b1b5/
