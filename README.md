@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Hshmat, a Third Year Engineering Science student at University of Toronto, specializing in the Machine Intelligence :brain: option!
 
-![counter](https://github.com/hshmatsahak.m.pipedream.net)
+![counter](https://github.com.m.pipedream.net)
 
 Currently seeking 12-16 month PEY coop positions starting May or September 2022
 
