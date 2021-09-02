@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Hshmat, a Third Year Engineering Science student at Univerity of Toronto, specializing in the Machine Intelligence :brain: option!
+### Hi there 👋 I'm Hshmat, a Third Year Engineering Science student at University of Toronto, specializing in the Machine Intelligence :brain: option!
 
 Currently seeking 12-16 month PEY coop positions starting May 2022
 
