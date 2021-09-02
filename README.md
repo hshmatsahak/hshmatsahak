@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Hshmat, a Third Year Engineering Science student at Univerity of Toronto, specializing in the Machine Intelligence :brain: option!
 
-<!--
-**hshmatsahak/hshmatsahak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
