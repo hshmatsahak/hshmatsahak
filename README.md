@@ -5,7 +5,7 @@ Currently seeking 12-16 month PEY coop positions starting May or September 2022
 Previous internships:
 - NVIDIA. Deep Learning Subteam of Power Team
 - Data Driven Decision Making Lab, University of Toronto
-- Dynamic Systems Lab, Univeristy of Toronto
+- Dynamic Systems Lab, University of Toronto
 - Sunnybrook Research Institute, Software Internship
 
 
