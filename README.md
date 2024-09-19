@@ -1,14 +1,20 @@
-### Hi there 👋 I'm Hshmat, a Third Year Engineering Science student at University of Toronto, specializing in the Machine Intelligence :brain: option!
+### Hi there 👋 I'm Hshmat, a first-year Masters student at the Robotics Institute at the University of Toronto (UofT). I completed my undergrad at UofT in April 2024; obtaining a BASc in Engineering Science, with a major in Machine Intelligence :brain: and a minor in Robotics and Mechatronics! :robot:
 
 ![](https://komarev.com/ghpvc/?username=hshmatsahak)
 
-Currently seeking 12-16 month PEY coop positions starting May or September 2022
+Research Experience:
 
-Previous internships:
-- NVIDIA. Deep Learning Subteam of Power Team
-- Data Driven Decision Making Lab, University of Toronto
-- Dynamic Systems Lab, University of Toronto
-- Sunnybrook Research Institute, Software Internship
+- Cerebras Systems. Applied ML Intern.
+- Vector Institute for Artificial Intelligence. ML intern under Jimmy Ba.
+- Google Brain. Student Researcher, supervised by David Fleet. 
+- Data Driven Decision Making Lab, University of Toronto. Supervised by Scott Sanner.
+- Dynamic Systems Lab, University of Toronto. Supervised by Angela Schoellig.
+- Sunnybrook Research Institute, High School Researcher. Supervised by Pegah Aslani.
+
+Other Experiences (SWE, data science, etc):
+- NVIDIA. Deep Learning Subteam of Power Team.
+- Tesla. Software Engineer.
+- University of Toronto Aerospace Team. Software Engineering role.
 
 Always happy to connect 📫
 - Follow me on Github!
