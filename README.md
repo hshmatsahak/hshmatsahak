@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=hshmatsahak)
 
-Research Experience:
+**Research Intern Experiences:**
 
 - Cerebras Systems. Applied ML Intern.
 - Vector Institute for Artificial Intelligence. ML intern under Jimmy Ba.
@@ -11,7 +11,7 @@ Research Experience:
 - Dynamic Systems Lab, University of Toronto. Supervised by Angela Schoellig.
 - Sunnybrook Research Institute, High School Researcher. Supervised by Pegah Aslani.
 
-Other Experiences (SWE, data science, etc):
+**Other Intern Experiences (SWE, data science, etc):**
 - NVIDIA. Deep Learning Subteam of Power Team.
 - Tesla. Software Engineer.
 - University of Toronto Aerospace Team. Software Engineering role.
